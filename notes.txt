@@ -1,0 +1,15 @@
+tedbir tanımı için iş paketi noları ve başlıkları fix olacak.
+sadece uygulanma durumu T olanlar boş olacak.
+bazen bir tedbir numarası için iş paketi iki tane olabiliyor ancak şu andaki ekc4 şablonunda bu ihtiyaca cevap verilmemiş.
+
+HER BİR TEDBİR TANIMI VE SORUSU İÇİN TEK VEYA İKİ CÜMLE İLE NE YAPILACAĞINA DAİR CHATGPT İLE BİR CÜMLE OLUŞTURULACAK.
+
+app.py ile iki excele ihtiyaç duyuluyor.
+birincisi tedbirkararlarışablon.xlsx
+ikincisi yüklenecek ekc4 ten oluşturulan yazılım dokümanı.
+
+yazılım dokümanı içerisinde varlık grubu no, tedbir tanımı no, tedbir seviyesi, uygulanma durumu,
+açıklama, hedeflenen çalışma sütunları bulunmalı.
+
+
+
